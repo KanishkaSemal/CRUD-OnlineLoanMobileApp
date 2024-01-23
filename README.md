@@ -24,7 +24,7 @@ Throughout this repository, you will find the complete source code, neatly organ
 
 We are proud of the hard work and dedication poured into this project and hope that sharing it on GitHub will inspire others to innovate and contribute to the advancement of technology in the insurance domain.
 
-Thank you for visiting our repository, and we look forward to your active involvement in making the Vehicle Insurance Management System even more exceptional!
+Thank you for visiting My repository!
 
 <h3 align="left">Ask anything:</h3>
 <p align="left">
