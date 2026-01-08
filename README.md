@@ -25,8 +25,17 @@ Throughout this repository, you will find the complete source code, neatly organ
 We are proud of the hard work and dedication poured into this project and hope that sharing it on GitHub will inspire others to innovate and contribute to the advancement of technology in the insurance domain.
 
 ## UI Screen Shot
-<p align="center"> <img src="https://github.com/KanishkaSemal/CRUD-OnlineLoanMobileApp/blob/65a111ac28adc9a29ebb8e755dd1b9f7b92c4c6b/1.jpeg" width="250"/> <img src="https://github.com/KanishkaSemal/CRUD-OnlineLoanMobileApp/blob/65a111ac28adc9a29ebb8e755dd1b9f7b92c4c6b/2.jpeg" width="250"/> </p>
-p align="center"> <img src="https://github.com/KanishkaSemal/CRUD-OnlineLoanMobileApp/blob/65a111ac28adc9a29ebb8e755dd1b9f7b92c4c6b/3.jpeg" width="250"/> <img src="https://github.com/KanishkaSemal/CRUD-OnlineLoanMobileApp/blob/65a111ac28adc9a29ebb8e755dd1b9f7b92c4c6b/4.jpeg" width="250"/> </p>
+<p align="center">
+  <img src="https://github.com/KanishkaSemal/CRUD-OnlineLoanMobileApp/blob/65a111ac28adc9a29ebb8e755dd1b9f7b92c4c6b/1.jpeg" width="250" alt="Login Screen"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/KanishkaSemal/CRUD-OnlineLoanMobileApp/blob/65a111ac28adc9a29ebb8e755dd1b9f7b92c4c6b/2.jpeg" width="250" alt="Dashboard Screen"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/KanishkaSemal/CRUD-OnlineLoanMobileApp/blob/65a111ac28adc9a29ebb8e755dd1b9f7b92c4c6b/3.jpeg" width="250" alt="Add Loan Screen"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/KanishkaSemal/CRUD-OnlineLoanMobileApp/blob/65a111ac28adc9a29ebb8e755dd1b9f7b92c4c6b/4.jpeg" width="250" alt="View Loan Screen"/>
+</p>
 
 Thank you for visiting My repository!
 
